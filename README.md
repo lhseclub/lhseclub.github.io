@@ -1,5 +1,5 @@
 # lhseclub.github.io
-Alex can you make the loading bar at the bottom go away 
-I have to go to the play
-heres the documentation for vegas:
-http://vegas.jaysalvat.com/documentation/setup/
+
+Our club's (temporary) website for sign up!
+
+We'll be coming with a more comprehesive version soon :)
